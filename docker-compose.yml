@@ -2,7 +2,7 @@ version: '2'
 services:
 
   ikev2-vpn:
-    image: alexanderek/ikev2-vpn
+    image: roman1gan/ikev2-vpn
     container_name: ikev2-vpn
     restart: always
     ports:
